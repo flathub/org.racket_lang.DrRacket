@@ -1,3 +1,4 @@
 {
-    "end-of-life": "This extension will not be updated. Please use 'org.racket_lang.Racket' instead"
+    "end-of-life": "This extension will not be updated. Please use 'org.racket_lang.Racket' instead",
+    "end-of-life-rebase": "org.racket_lang.Racket"
 }
